@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Onigiri</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 04 Jul 2026 20:05:39 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/joan-chiangwq/on-igiri-releases/releases/download/v1.0/Onigiri-1.0.dmg" length="1309531" type="application/octet-stream" sparkle:edSignature="rtAzC5cDFRsBj+pK+bP+wTGpxmnqx0JfqTFKA/YU1VC3F/zCs/eSzDRy+FRG+FmlHvc0+IzV3W54HHfSdNpVBg=="/>
+        </item>
+    </channel>
+</rss>
